@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+locationorg.eclipse.jst.server.tomcat.runtime.100=/opt/tomcat/apache-tomcat-10.0.23
+locationorg.eclipse.jst.server.tomcat.runtime.80=/home/hyphen/apache-tomcat-8.0.53
+locationorg.eclipse.jst.server.tomcat.runtime.85=/home/hyphen/Downloads/apache-tomcat-8.5.84
+locationorg.eclipse.jst.server.tomcat.runtime.90=/home/hyphen/Downloads/apache-tomcat-9.0.69

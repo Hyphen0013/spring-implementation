@@ -1,0 +1,49 @@
+.edit-btn { 
+	color: rgb(101, 197, 145);
+	border: 1px solid rgb(101, 197, 145);
+}
+
+.delete-btn {
+	color: rgb(233, 84, 140);
+	border: 1px solid rgb(233, 84, 140);
+}
+
+.edit-btn  .fa-btn {
+	color: rgb(101, 197, 145);
+}
+
+.delete-btn .fa-btn {
+	color: rgb(233, 84, 140);
+}
+
+.edit-btn:hover, .edit-btn:hover .fa-btn {
+	color: #ffff;
+	background-color: rgb(101, 197, 145);
+}
+
+.delete-btn:hover, .delete-btn:hover .fa-btn {
+	color: #ffff;
+	background-color: rgb(233, 84, 140);
+}
+
+.badge-btn {
+	padding: 4px 6px;
+	border: 1px solid #ddcccc;
+	display: flex;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.custom-btn {
+	cursor: pointer;
+	padding: 2px 8px;
+	font-size: 20px;
+	border-radius: 3px;
+}
+
+.alert-div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}

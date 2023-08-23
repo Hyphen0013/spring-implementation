@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+/home/hyphen/Documents/Javahyphen/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3157682857.index
+1373869465.index
+1280140019.index
+1665781777.index
+1319349370.index
+3608300550.index
+3137612443.index
+3565308983.index
+1324094434.index
+3914144619.index
+828243780.index
+470686182.index
+4171834130.index
+3327995900.index
+2535944835.index
+3649417590.index
+2550073482.index
